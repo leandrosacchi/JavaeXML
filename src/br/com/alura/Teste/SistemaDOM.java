@@ -13,7 +13,7 @@ import org.w3c.dom.NodeList;
 
 import br.com.alura.Model.Produto;
 
-public class Sistema {
+public class SistemaDOM {
 
 	public static void main(String[] args) throws Exception {
 		DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
